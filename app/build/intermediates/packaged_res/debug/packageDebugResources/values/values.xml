@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFF7F8FC</color>
+    <color name="black">#FF15131B</color>
+    <color name="muted">#FFDBD6E4</color>
+    <color name="pink">#FFD13D9A</color>
+    <color name="purple_700">#FF7A35C7</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Theme.MovieApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#A83DD0</item><item name="colorPrimaryVariant">#7B2FB5</item>
+        <item name="colorSecondary">#F5C94A</item><item name="android:statusBarColor">#A83DD0</item>
+        <item name="android:navigationBarColor">#A83DD0</item><item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <color name="white">#FFFFFFFF</color><color name="black">#FF15131B</color>
+    <color name="purple_700">#FF7A35C7</color><color name="pink">#FFD13D9A</color>
+    <color name="background">#FFF7F8FC</color><color name="muted">#FFDBD6E4</color>
+</resources>

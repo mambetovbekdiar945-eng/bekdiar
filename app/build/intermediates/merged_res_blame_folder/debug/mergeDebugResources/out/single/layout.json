@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.movieapp-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.movieapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-mergeDebugResources-34:\\layout\\fragment_movie_list.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\fragment_movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-mergeDebugResources-34:\\layout\\fragment_movie_detail.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\fragment_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-mergeDebugResources-34:\\layout\\item_movie.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\item_movie.xml"
+    }
+]

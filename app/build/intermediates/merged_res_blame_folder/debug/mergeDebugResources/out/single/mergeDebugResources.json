@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_movie_pink.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_movie_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_movie_orange.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_movie_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_detail.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_movie_green.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_movie_green.xml"
+    },
+    {
+        "merged": "com.example.movieapp-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.movieapp-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\layout_fragment_movie_list.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\fragment_movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\ic_star_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_movie_purple.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_movie_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\layout_fragment_movie_detail.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\fragment_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_poster.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_poster.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_bg_movie_blue.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\bg_movie_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-debug-35:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\9.6.0\\com.example.movieapp-main-37:\\drawable\\ic_play.xml"
+    }
+]
